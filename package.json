@@ -1,0 +1,23 @@
+{
+  "name": "bba-test01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhiha98-lab/test01-hahn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nhiha98-lab/test01-hahn/issues"
+  },
+  "homepage": "https://github.com/nhiha98-lab/test01-hahn#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
+  }
+}
